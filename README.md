@@ -47,7 +47,7 @@ export LOG_LEVEL=DEBUG
 
 ## Demo
 
-You can find the demo Generated files in [here](demo) or click `chapi` folder in the root directory.
+You can find the demo Generated files in [here](chapi) or click `chapi` folder in the root directory.
 
 The folder structure is as follows
 
