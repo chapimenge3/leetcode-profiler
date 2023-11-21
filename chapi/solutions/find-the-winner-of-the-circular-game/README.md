@@ -59,9 +59,9 @@ Please see the [original problem description](https://leetcode.com/problems/find
 ## Stats
 
 - **Runtime**: 34 ms
-    - **Beats**: 94
+    - **Beats**: 94%
 - **Memory**: 14.3 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 12 January 2023
 
 ## Solution

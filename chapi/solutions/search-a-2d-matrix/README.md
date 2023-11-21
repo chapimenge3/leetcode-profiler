@@ -44,9 +44,9 @@ Please see the [original problem description](https://leetcode.com/problems/sear
 ## Stats
 
 - **Runtime**: 50 ms
-    - **Beats**: 54
+    - **Beats**: 54%
 - **Memory**: 14.4 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 29 July 2022
 
 ## Solution

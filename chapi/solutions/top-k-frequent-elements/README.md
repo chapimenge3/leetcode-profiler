@@ -31,9 +31,9 @@ Please see the [original problem description](https://leetcode.com/problems/top-
 ## Stats
 
 - **Runtime**: 137 ms
-    - **Beats**: 7
+    - **Beats**: 7%
 - **Memory**: 22.5 MB
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Timestamp**: 02 November 2023
 
 ## Solution

@@ -39,9 +39,9 @@ Please see the [original problem description](https://leetcode.com/problems/bina
 ## Stats
 
 - **Runtime**: 40 ms
-    - **Beats**: 6
+    - **Beats**: 6%
 - **Memory**: 27.4 MB
-    - **Beats**: 99
+    - **Beats**: 99%
 - **Timestamp**: 14 March 2022
 
 ## Solution

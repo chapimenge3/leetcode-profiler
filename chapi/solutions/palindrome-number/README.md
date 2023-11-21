@@ -44,9 +44,9 @@ Please see the [original problem description](https://leetcode.com/problems/pali
 ## Stats
 
 - **Runtime**: 72 ms
-    - **Beats**: 17
+    - **Beats**: 17%
 - **Memory**: 13.9 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 14 March 2022
 
 ## Solution

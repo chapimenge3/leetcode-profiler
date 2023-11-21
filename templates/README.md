@@ -34,15 +34,19 @@ $websites
 
 - **Hard** - $hard_solved out of  $hard_total and beats $hard_percentile
 - **Medium** - $medium_solved out of $medium_total and beats $medium_percentile
-- **Easy** - $easy_solved out of $easy_solved and beats $easy_percentile
+- **Easy** - $easy_solved out of $easy_total and beats $easy_percentile
 - **Total** - $total_solved out of $total. solved $total_percentile of Total  Problems
 
 ###  🛠 Language Used
 
 $languages
 
-## Problems
+## Questions
 
+The questions are sorted by difficulty, and then by runtime beats, and then by memory beats.
+
+____
 | Title | Solution | Difficulty | Runtime Beats | Memory Beats| 
 | --- | --- | ---| --- | --- |
 $question_tables
+____

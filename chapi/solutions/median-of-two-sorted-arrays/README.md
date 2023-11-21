@@ -41,9 +41,9 @@ Please see the [original problem description](https://leetcode.com/problems/medi
 ## Stats
 
 - **Runtime**: 214 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 14.1 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 22 November 2022
 
 ## Solution

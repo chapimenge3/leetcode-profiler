@@ -36,9 +36,9 @@ Please see the [original problem description](https://leetcode.com/problems/perm
 ## Stats
 
 - **Runtime**: 51 ms
-    - **Beats**: 98
+    - **Beats**: 98%
 - **Memory**: 13.9 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 12 January 2023
 
 ## Solution

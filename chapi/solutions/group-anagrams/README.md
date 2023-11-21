@@ -32,9 +32,9 @@ Please see the [original problem description](https://leetcode.com/problems/grou
 ## Stats
 
 - **Runtime**: 109 ms
-    - **Beats**: 28
+    - **Beats**: 28%
 - **Memory**: 19.6 MB
-    - **Beats**: 75
+    - **Beats**: 75%
 - **Timestamp**: 03 July 2023
 
 ## Solution

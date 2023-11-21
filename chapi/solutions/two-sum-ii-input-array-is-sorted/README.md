@@ -52,9 +52,9 @@ Please see the [original problem description](https://leetcode.com/problems/two-
 ## Stats
 
 - **Runtime**: 115 ms
-    - **Beats**: 78
+    - **Beats**: 78%
 - **Memory**: 17.3 MB
-    - **Beats**: 25
+    - **Beats**: 25%
 - **Timestamp**: 16 November 2023
 
 ## Solution

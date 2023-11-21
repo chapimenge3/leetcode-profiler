@@ -54,9 +54,9 @@ Please see the [original problem description](https://leetcode.com/problems/panc
 ## Stats
 
 - **Runtime**: 75 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 14 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 31 July 2022
 
 ## Solution

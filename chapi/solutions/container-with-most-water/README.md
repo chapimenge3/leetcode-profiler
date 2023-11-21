@@ -41,9 +41,9 @@ Please see the [original problem description](https://leetcode.com/problems/cont
 ## Stats
 
 - **Runtime**: 2265 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 27.4 MB
-    - **Beats**: 99
+    - **Beats**: 99%
 - **Timestamp**: 21 December 2022
 
 ## Solution

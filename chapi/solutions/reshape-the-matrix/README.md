@@ -42,9 +42,9 @@ Please see the [original problem description](https://leetcode.com/problems/resh
 ## Stats
 
 - **Runtime**: 134 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 14.7 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 28 July 2022
 
 ## Solution

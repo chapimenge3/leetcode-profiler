@@ -46,9 +46,9 @@ Please see the [original problem description](https://leetcode.com/problems/maxi
 ## Stats
 
 - **Runtime**: 1222 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 28 MB
-    - **Beats**: 99
+    - **Beats**: 99%
 - **Timestamp**: 18 July 2022
 
 ## Solution

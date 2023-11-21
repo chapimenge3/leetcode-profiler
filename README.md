@@ -32,6 +32,19 @@ Before using it we need to provide LEETCODE SESSION.
 
 **NOTE:** As of now the script only works if you provide the `LEETCODE_SESSION` in the same terminal. If you close the terminal you need to provide the `LEETCODE_SESSION` again.
 
+You can also export the username and password as well. 
+    
+```bash
+export LEETCODE_USERNAME=<username>
+export LEETCODE_PASSWORD=<password>
+```
+
+One last environment is logging. The default logging level is `INFO`. You can change it to `DEBUG` if you want to see the debug logs.
+
+```bash
+export LOG_LEVEL=DEBUG
+```
+
 ## Demo
 
 You can find the demo Generated files in [here](demo) or click `chapi` folder in the root directory.

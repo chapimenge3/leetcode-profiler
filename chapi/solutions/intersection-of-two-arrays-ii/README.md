@@ -43,9 +43,9 @@ Please see the [original problem description](https://leetcode.com/problems/inte
 ## Stats
 
 - **Runtime**: 3 ms
-    - **Beats**: 83
+    - **Beats**: 83%
 - **Memory**: 10.9 MB
-    - **Beats**: 29
+    - **Beats**: 29%
 - **Timestamp**: 21 July 2022
 
 ## Solution

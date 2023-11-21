@@ -46,9 +46,9 @@ Please see the [original problem description](https://leetcode.com/problems/smal
 ## Stats
 
 - **Runtime**: 70 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 14.3 MB
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Timestamp**: 21 June 2023
 
 ## Solution

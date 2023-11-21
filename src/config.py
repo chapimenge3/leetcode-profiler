@@ -4,7 +4,7 @@ import logging
 LEETCODE_SESSION = os.environ.get('LEETCODE_SESSION')
 LEETCODE_USERNAME = os.environ.get('LEETCODE_USERNAME')
 LEETCODE_PASSWORD = os.environ.get('LEETCODE_PASSWORD')
-LOG_LEVEL = os.environ.get('LOG_LEVEL', 'DEBUG')
+LOG_LEVEL = os.environ.get('LOG_LEVEL', 'INFO')
 NO_INPUT = os.environ.get('NO_INPUT')
 
 if LOG_LEVEL:
@@ -62,7 +62,7 @@ class Config:
     # template values
     WEBSITES_TMLT = "[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]({website})"
     LANGUAGE_TMLT = "- **{language}** - solved {language_count} problems"
-    PROBLEM_TMPT = "| [{title}]({problem_url}) | [{language}](./{solution_link}) | {difficulty} | {run_beats} | {memory_beats} |"
+    PROBLEM_TMPT = "| [{title}]({problem_url}) | [{language}](./{solution_link}) | {difficulty} | {run_beats}% | {memory_beats}% |"
 
     # logger
     logger = logger

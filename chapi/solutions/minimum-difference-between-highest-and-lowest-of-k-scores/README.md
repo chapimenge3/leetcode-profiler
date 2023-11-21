@@ -47,9 +47,9 @@ Please see the [original problem description](https://leetcode.com/problems/mini
 ## Stats
 
 - **Runtime**: 123 ms
-    - **Beats**: 6
+    - **Beats**: 6%
 - **Memory**: 14.1 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 22 November 2022
 
 ## Solution

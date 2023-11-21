@@ -49,9 +49,9 @@ Please see the [original problem description](https://leetcode.com/problems/two-
 ## Stats
 
 - **Runtime**: 15 ms
-    - **Beats**: 54
+    - **Beats**: 54%
 - **Memory**: 11 MB
-    - **Beats**: 48
+    - **Beats**: 48%
 - **Timestamp**: 14 March 2022
 
 ## Solution

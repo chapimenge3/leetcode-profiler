@@ -27,9 +27,9 @@ Please see the [original problem description](https://leetcode.com/problems/pasc
 ## Stats
 
 - **Runtime**: 40 ms
-    - **Beats**: 55
+    - **Beats**: 55%
 - **Memory**: 14 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 29 July 2022
 
 ## Solution

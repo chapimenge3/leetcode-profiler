@@ -41,9 +41,9 @@ Please see the [original problem description](https://leetcode.com/problems/firs
 ## Stats
 
 - **Runtime**: 0 ms
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Memory**: 6 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 14 March 2022
 
 ## Solution

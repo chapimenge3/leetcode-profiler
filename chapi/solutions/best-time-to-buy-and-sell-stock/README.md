@@ -40,9 +40,9 @@ Please see the [original problem description](https://leetcode.com/problems/best
 ## Stats
 
 - **Runtime**: 1806 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 25 MB
-    - **Beats**: 99
+    - **Beats**: 99%
 - **Timestamp**: 27 July 2022
 
 ## Solution

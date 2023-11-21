@@ -81,6 +81,20 @@ def start_action():
         questions_table.append(generate_solution(solution))
         env_config.logger.info('Generated solution for question "%s"', subs["title"])
 
+    # Sort the questions table by difficulty
+    sorting_key = {
+        "Easy": 0,
+        "Medium": 1,
+        "Hard": 2,
+    }
+    questions_table.sort(
+        key=lambda x: (
+            sorting_key[x["difficulty"]],
+            x["runtime_beats"],
+            x["memory_beats"],
+        )
+    )
+
     env_config.logger.info("Generated solutions for all questions")
 
     # Generate a README.md file for the user

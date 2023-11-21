@@ -38,9 +38,9 @@ Please see the [original problem description](https://leetcode.com/problems/squa
 ## Stats
 
 - **Runtime**: 63 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 27.6 MB
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Timestamp**: 15 March 2022
 
 ## Solution

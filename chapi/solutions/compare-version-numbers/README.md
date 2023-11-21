@@ -60,9 +60,9 @@ Please see the [original problem description](https://leetcode.com/problems/comp
 ## Stats
 
 - **Runtime**: 30 ms
-    - **Beats**: 93
+    - **Beats**: 93%
 - **Memory**: 16.3 MB
-    - **Beats**: 49
+    - **Beats**: 49%
 - **Timestamp**: 15 November 2023
 
 ## Solution

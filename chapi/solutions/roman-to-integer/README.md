@@ -66,9 +66,9 @@ Please see the [original problem description](https://leetcode.com/problems/roma
 ## Stats
 
 - **Runtime**: 68 ms
-    - **Beats**: 5
+    - **Beats**: 5%
 - **Memory**: 13.8 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 14 July 2022
 
 ## Solution

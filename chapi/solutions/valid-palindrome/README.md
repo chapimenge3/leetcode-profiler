@@ -46,9 +46,9 @@ Please see the [original problem description](https://leetcode.com/problems/vali
 ## Stats
 
 - **Runtime**: 52 ms
-    - **Beats**: 48
+    - **Beats**: 48%
 - **Memory**: 17.2 MB
-    - **Beats**: 37
+    - **Beats**: 37%
 - **Timestamp**: 16 November 2023
 
 ## Solution

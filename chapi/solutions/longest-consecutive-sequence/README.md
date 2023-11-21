@@ -36,9 +36,9 @@ Please see the [original problem description](https://leetcode.com/problems/long
 ## Stats
 
 - **Runtime**: 1144 ms
-    - **Beats**: 16
+    - **Beats**: 16%
 - **Memory**: 70.9 MB
-    - **Beats**: 27
+    - **Beats**: 27%
 - **Timestamp**: 15 November 2023
 
 ## Solution

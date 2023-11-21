@@ -29,9 +29,9 @@ Please see the [original problem description](https://leetcode.com/problems/sing
 ## Stats
 
 - **Runtime**: 118 ms
-    - **Beats**: 25
+    - **Beats**: 25%
 - **Memory**: 16.1 MB
-    - **Beats**: 100
+    - **Beats**: 100%
 - **Timestamp**: 22 November 2022
 
 ## Solution

@@ -57,9 +57,9 @@ Please see the [original problem description](https://leetcode.com/problems/merg
 ## Stats
 
 - **Runtime**: 11 ms
-    - **Beats**: 29
+    - **Beats**: 29%
 - **Memory**: 9.2 MB
-    - **Beats**: 98
+    - **Beats**: 98%
 - **Timestamp**: 19 July 2022
 
 ## Solution
